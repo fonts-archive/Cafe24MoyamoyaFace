@@ -36,10 +36,10 @@ font-family: 'Cafe24 Moyamoya Face', sans-serif;
     font-weight: normal;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/Cafe24Moyamoya/Cafe24Moyamoya-Face.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/Cafe24Moyamoya/Cafe24Moyamoya-Face.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/Cafe24Moyamoya/Cafe24Moyamoya-Face.otf') format('opentype'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/Cafe24Moyamoya/Cafe24Moyamoya-Face.ttf') format('truetype');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/Cafe24MoyamoyaFace/Cafe24Moyamoya-Face.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/Cafe24MoyamoyaFace/Cafe24Moyamoya-Face.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/Cafe24MoyamoyaFace/Cafe24Moyamoya-Face.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/Cafe24MoyamoyaFace/Cafe24Moyamoya-Face.ttf') format('truetype');
 }
 ```
 
