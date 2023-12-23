@@ -32,7 +32,7 @@ font-family: 'Cafe24 Moyamoya Face', sans-serif;
 
 ```
 @font-face {
-    font-family: 'Cafe24 Moyamoya';
+    font-family: 'Cafe24 Moyamoya Face';
     font-weight: normal;
     font-style: normal;
     font-display: swap;
